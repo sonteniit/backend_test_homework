@@ -1,1 +1,1 @@
-*.doc 
+D:\dev\project\backend_test_homework\d.docx
